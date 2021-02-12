@@ -25,6 +25,7 @@ env.bak/
 venv.bak/
 .task
 task/
+.env.dev 
 
 # mkdocs documentation
 /site
@@ -204,5 +205,4 @@ dmypy.json
 cython_debug/
 
 # Docker
-docker-compose.yml
 docker/docker
